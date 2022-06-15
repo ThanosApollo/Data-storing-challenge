@@ -1,0 +1,14 @@
+#+title: Database_challenge
+#+author: Thanos Apollo
+#+Description: Coding challenge
+
+* Database challenge
+*** Inputs
+- [search] → search for professor by subject
+- [f] → search for subject by professor
+- [p] → add professor and their subjects
+- [s] → add subject to professor
+- [a] → show all professors and subjects
+- [l] → Leave
+
+Challange only allows you to store data locally, not in another file e.g json
