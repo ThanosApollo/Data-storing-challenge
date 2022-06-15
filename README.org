@@ -1,8 +1,7 @@
-#+title: Database_challenge
+#+title: Data-storing-challenge
 #+author: Thanos Apollo
 #+Description: Coding challenge
 
-* Database challenge
 *** Inputs
 - [search] → search for professor by subject
 - [f] → search for subject by professor
